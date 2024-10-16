@@ -1,1 +1,1 @@
-# cs1200mod6b
+# CS1200 Module 6b Assignment
